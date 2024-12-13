@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 *.txt
 .DS_Store
+.zip
+.pkl
 
 # C extensions
 *.so
